@@ -1,6 +1,8 @@
 # Battle_city
 Battle city game (to be run in Greenfoot environment) Java
-Made By- Shubham Jain & Rohit H. Navarathna
+
+Made By-
+Shubham Jain & Rohit H. Navarathna
 
 Battle City 
 You are a golden tank, entrusted with the duty of protecting your base(indicated as Eagle).
