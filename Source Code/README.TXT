@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Battle City
+PURPOSE OF PROJECT:  made as a part of our course work.
+VERSION or DATE: 1.0 23/08/2015
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Shubham jain and Rohit Navarathna
 USER INSTRUCTIONS:
