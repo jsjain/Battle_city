@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ act()
-comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Powerups\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
-comment1.params=
-comment1.target=void\ checkSteel()
-comment1.text=\r\n\ Prevents\ powerups\ from\ spawning\ on\ steel\ or\ water\r\n
-numComments=2

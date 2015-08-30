@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ act()
-comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Time_Power\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
-comment1.params=
-comment1.target=void\ grenadeBlast()
-comment1.text=\r\n\ Blasts\ enemies\ in\ range\ of\ grenade\r\n
-numComments=2
